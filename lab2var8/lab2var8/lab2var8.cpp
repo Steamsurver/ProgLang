@@ -92,12 +92,14 @@ int red(int i, int j, int size, int** mass, int& coord3, int& coord4) //крас
 		}
 		cout << endl;
 	}
+	cout <<"\n\n";
 	cout << "Максимальный элемент - " << max << endl;
 	return max;
 }
 
 void output(int i, int j, int size, int** mass)
 {
+	cout << "\n\n";
 	for (i = 0; i < size; i++)
 	{
 		cout << setw(i * 3);

@@ -33,7 +33,7 @@ int main()
 		Sleep(200);
 		system("cls");
 	}
-
+	output(x, x1, field, i);
 
 }
 

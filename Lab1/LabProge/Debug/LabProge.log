@@ -1,3 +1,4 @@
-﻿  LabProge.cpp
-E:\LabProge\LabProge\LabProge.cpp(105,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  LabProge.vcxproj -> E:\LabProge\Debug\LabProge.exe
+﻿  stdafx.cpp
+  LabProge.cpp
+C:\Users\ПК\Desktop\Доки\gitgit\Lab1\LabProge\LabProge.cpp(105,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LabProge.vcxproj -> C:\Users\ПК\Desktop\Доки\gitgit\Lab1\Debug\LabProge.exe
