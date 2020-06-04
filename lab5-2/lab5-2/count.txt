@@ -1,0 +1,6 @@
+20000  22Guitar Gibsoin     
+5000   24Bass Gibsoin      
+50000  22Guitar Gibsoin    
+12000  21Guitar Gibsoin    
+40000  24Bass Gibsoin     
+!

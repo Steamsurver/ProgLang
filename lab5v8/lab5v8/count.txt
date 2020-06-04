@@ -1,0 +1,7 @@
+34 1 120Sidorov Michail Vladimirovich
+45 2 65Mihailov Ivan Petrovich
+50 3 78Gregoriev Sergei Ivanovich
+1 4 167Okynev Petr Petrovich
+10 5 99Morozov Ivan Ivanovich
+!
+
